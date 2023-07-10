@@ -27,7 +27,6 @@ PCB images generated with [tracespace](https://github.com/tracespace/tracespace)
 | R1             | 6.8k          | Yageo        | RC1206FR-076K8L   | $0.10 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/RC1206FR-076K8L/729028) |
 | R2             | 100           | Yageo        | RC1206FR-07100RL  | $0.10 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/RC1206FR-07100RL/728491?s=N4IgTCBcDaIAQCUDCBGMAGAbAMQQWnQHYV10EAZEAXQF8g) |
 | R5             | 1k            | Yageo        | RC1206FR-071KL    | $0.10 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/RC1206FR-071KL/728387?s=N4IgTCBcDaIEoGECMYAMA2AYnAtKg7EgNIAyIAugL5A) |
-| RV1            | 2.2k          | Bourns       | 3362P-1-202TLF    | $3.00 | [DigiKey](https://www.digikey.com/en/products/detail/bourns-inc/3362P-1-202TLF/1232538?s=N4IgTCBcDaIMxwGxgAoFoCMawAYwBUAZAMRAF0BfIA) [Newark](https://www.newark.com/bourns/3362p-1-202tlf/trimmer-potentiometer-2kohm-10/dp/33M2835) |
 | TP1            | (yellow)      | Keystone     | 5014              | $0.50 | [DigiKey](https://www.digikey.com/en/products/detail/keystone-electronics/5014/255336) |
 | TP2            | (red)         | Keystone     | 5010              | $0.50 | [DigiKey](https://www.digikey.com/en/products/detail/keystone-electronics/5010/255332) |
 | TP3            | (black)       | Keystone     | 5011              | $0.50 | [DigiKey](https://www.digikey.com/en/products/detail/keystone-electronics/5011/255333) |        |
